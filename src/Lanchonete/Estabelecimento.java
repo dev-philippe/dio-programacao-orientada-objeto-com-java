@@ -33,8 +33,7 @@ public class Estabelecimento {
 
 
 
-        // esta ação é muito sigilosa, que tal ser privada?
-        cliente.consultaSaldoAplicativo();
+
 
 
     }
